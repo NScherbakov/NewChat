@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "bsimagepicker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mikaoj/BSImagePicker.git",
+      "state" : {
+        "revision" : "87c300fac63538dfb26e17d491eaa2293e83b5e8",
+        "version" : "3.3.3"
+      }
+    }
+  ],
+  "version" : 2
+}
